@@ -83,4 +83,24 @@ Make sure you have C++ installed on your machine.
 Enter your choice: 1
 Your Balance: 1000
 ```
+---
+
+## 🎉 THANK YOU! 🎉
+
+Hey there, amazing coder! 👋  
+
+Thank you for checking out **Demo ATM System**. I hope this project gave you some hands-on experience with C++ fundamentals like:
+
+- ✅ `if–else` decisions  
+- ✅ Logical operators (`&&`, `||`, `!`)  
+- ✅ User input & console output  
+
+Your support means the world! 🌍  
+
+⭐ **Give it a star** if you found it helpful — it really motivates me to make more fun and beginner-friendly projects.  
+
+Keep learning, keep coding, and remember: every line of code brings you one step closer to becoming a pro! 💻🚀  
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House 😎
+
 
